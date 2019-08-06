@@ -1,5 +1,5 @@
 def consolidate_cart(item)
-
+end
 
 def apply_coupons(cart, coupons)
   # code here
@@ -10,5 +10,5 @@ def apply_clearance(cart)
 end
 
 def checkout(cart, coupons)
-  # code here
+ 
 end
