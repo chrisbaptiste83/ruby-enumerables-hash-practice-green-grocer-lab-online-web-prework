@@ -13,9 +13,7 @@ end
 final
 end
 
-consolidate_cart(sample)
 
-end
 
 def apply_coupons(cart, coupons)
   # code here
