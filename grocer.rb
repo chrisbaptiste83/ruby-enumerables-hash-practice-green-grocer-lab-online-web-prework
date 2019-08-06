@@ -12,7 +12,7 @@ final[food][:count] +=1
 end
 final
 end
-
+end 
 
 
 def apply_coupons(cart, coupons)
